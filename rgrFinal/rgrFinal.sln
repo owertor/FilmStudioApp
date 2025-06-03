@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "rgrFinal", "rgrFinal\rgrFinal.pyproj", "{64C3CDD1-BB50-4087-8652-EDCDF9C2F40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C3CDD1-BB50-4087-8652-EDCDF9C2F40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C3CDD1-BB50-4087-8652-EDCDF9C2F40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E3A0B7-A936-4A33-BD71-58B6EDC79F41}
+	EndGlobalSection
+EndGlobal
